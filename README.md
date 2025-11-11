@@ -1,4 +1,4 @@
-Banking & Financial Analytics Projects Pack (10K Edition)
+BFSI Analytics CAPSTONE Projects
 Big Data | Machine Learning | PySpark | FinTech Innovation 2025
 
 This repository presents five end-to-end analytics projects that apply machine learning, NLP, and simulation techniques to real-world financial use cases.
