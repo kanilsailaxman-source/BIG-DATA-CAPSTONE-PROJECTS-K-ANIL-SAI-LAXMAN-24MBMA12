@@ -81,32 +81,6 @@ Customer Experience Units: Sentiment dashboards and service improvement.
 Asset Management Firms: ESG portfolio transparency.
 
 
-CAPSTONEBFSIProjects/
-│
-├── 1_Fraud_Anomaly_Detection/
-│   ├── data/dataset.csv
-│   ├── analysis.py
-│   └── outputs/roc_curve.png
-│
-├── 2_Operational_Sentiment_NLP/
-│   ├── data/dataset.csv
-│   ├── analysis.py
-│   └── outputs/sentiment_trend.png
-│
-├── 3_ESG_Portfolio_Scoring/
-│   ├── data/dataset.csv
-│   ├── analysis.py
-│   └── outputs/sector_esg.png
-│
-├── 4_Credit_Risk_Stress_Test/
-│   ├── data/dataset.csv
-│   ├── analysis.py
-│   └── outputs/loss_dist_severe_recession.png
-│
-└── 5_CBDC_Velocity_Monitoring/
-    ├── data/dataset.csv
-    ├── analysis.py
-    └── outputs/cbdc_hourly.png
 
 
 Regulatory Bodies: CBDC monitoring and compliance analytics.
@@ -120,4 +94,4 @@ MBA GENERAL
 University of Hyderabad, School of Management Studies
 11 November 2025
 
-FinTech Startups: Prototyping credit and fraud AI systems.
+
